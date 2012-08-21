@@ -24,6 +24,7 @@ public class ItemDetailActivity extends FragmentActivity {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.item_detail_container, fragment)
                     .commit();
+            //trying to modify
         }
     }
 
